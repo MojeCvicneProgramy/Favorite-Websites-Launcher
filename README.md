@@ -1,2 +1,2 @@
 # Favorite-Websites-Launcher
-Python, SQLite3 program for creating shortcut for favorite websites to lunch them quickly
+Python, SQLite3 program for creating shortcuts of favorite websites to launch them quickly
